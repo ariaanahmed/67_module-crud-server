@@ -21,3 +21,8 @@ ii. const run = async() => {
 }
 
 run().catch((error) => console.log(error))
+
+
+67_3 Create client side post and Insert single user data
+
+node mongodb crud -> https://www.mongodb.com/docs/drivers/node/current/usage-examples/#usage-examples (usage examples) -> https://www.mongodb.com/docs/drivers/node/current/usage-examples/insertOne/
