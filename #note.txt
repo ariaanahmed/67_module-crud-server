@@ -1,5 +1,8 @@
 67_1 Create mongodb atlas account for simple Crud server
 
-https://www.mongodb.com/atlas/database > Sign In > Accept the Privacy Policy > submit > select option and programming language > free > AWS > ariaanahmed24 h3k9MkTduanV9zFp
+https://www.mongodb.com/atlas/database > Sign In > Accept the Privacy Policy > submit > select option and programming language > free > AWS > ariaanahmed24 OX7qIYjc2pvWU9N2 > create user > cloud environment > configure ip address > add my current ip address > create and finish > setup > Network Access > Allow access from any where > confirm >then  Database Access ( ADD NEW DATABASE USER - er maddhome new user create kor jay)
+
+
+i. data base > connect > driver > npm install mongodb > View full code sample
 
 npm i express cors mongodb
