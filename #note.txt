@@ -26,3 +26,10 @@ run().catch((error) => console.log(error))
 67_3 Create client side post and Insert single user data
 
 node mongodb crud -> https://www.mongodb.com/docs/drivers/node/current/usage-examples/#usage-examples (usage examples) -> https://www.mongodb.com/docs/drivers/node/current/usage-examples/insertOne/
+
+
+67_4 Read Data Find find multiple user data and display on UI
+
+CRUD er R(read) niye kaj cholche
+i. ekta new component toiri korte and link korte hobe.
+ii. https://www.mongodb.com/docs/drivers/node/current/usage-examples/find/ > 
