@@ -1,0 +1,5 @@
+67_1 Create mongodb atlas account for simple Crud server
+
+https://www.mongodb.com/atlas/database > Sign In > Accept the Privacy Policy > submit > select option and programming language > free > AWS > ariaanahmed24 h3k9MkTduanV9zFp
+
+npm i express cors mongodb
