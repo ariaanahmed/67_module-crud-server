@@ -80,3 +80,10 @@ DELETE server (single):
 DELETE client:
 1. create dynamic url with id
 2. mention the DELETE method
+
+
+67_8 Explore Put And Patch And Update User To Database
+
+express basic routes > 
+
+67_9 Module Summary and Mango Treat for you
